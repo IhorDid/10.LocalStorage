@@ -1,7 +1,8 @@
-import throttle from 'lodash.throttle';
+// import throttle from 'lodash.throttle';
 import '../css/common.css';
 import '../css/feedback-form.css';
-
+// Todo 13
+// !                        Пример с формой и localStorage
 const STORAGE_KEY = 'feedback-msg';
 
 const refs = {
